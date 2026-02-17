@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+transformers
+torch
+Pillow
+opencv-python-headless
+numpy
+sentencepiece
+protobuf
