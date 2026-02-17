@@ -172,4 +172,5 @@ with st.expander("Or Upload Image (For Desktop Testing)"):
          process_image(uploaded_file)
 
 st.write("---")
-st.caption("FIN4901 FinTech Project - Sean Jarrell | Streamlit Cloud Edition")
+st.caption("FIN4901 FinTech Project | Streamlit Cloud Edition")
+
